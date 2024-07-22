@@ -1,0 +1,2 @@
+git stauts
+ this a firest change in this file. after a commit git status line.
